@@ -9,15 +9,21 @@
 类结构如下：
 
 - `com.ga.math`
+  
   GA.java
   
   > 例 1
 
 - `com.ga.tsp`
+  
   Algorithm.java
+  
   FitnessCalc.java
+  
   Individual.java
+  
   Main.java
+  
   Population.java
   
   > 例 2
